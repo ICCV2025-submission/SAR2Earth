@@ -1,3 +1,3 @@
 # SAR2Earth
 
-code for ICCV2025 paper ID 15153
+code for ICCV 2025 paper ID 15153
